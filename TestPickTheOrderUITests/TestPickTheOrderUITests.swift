@@ -2,7 +2,7 @@
 //  TestPickTheOrderUITests.swift
 //  TestPickTheOrderUITests
 //
-//  Created by Vijay on 01/09/20.
+//  Created by Penchal on 01/09/20.
 //  Copyright © 2020 senix.com. All rights reserved.
 //
 

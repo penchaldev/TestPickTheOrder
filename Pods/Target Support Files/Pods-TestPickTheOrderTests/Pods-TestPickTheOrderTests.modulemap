@@ -1,0 +1,6 @@
+framework module Pods_TestPickTheOrderTests {
+  umbrella header "Pods-TestPickTheOrderTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
